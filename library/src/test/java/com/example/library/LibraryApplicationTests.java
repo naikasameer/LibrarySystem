@@ -10,5 +10,11 @@ class LibraryApplicationTests {
 	void testMemberExample() {
 		
 	}
+	
+	@Test
+	void testCategoryExample() {
+		
+	}
 
+	
 }
